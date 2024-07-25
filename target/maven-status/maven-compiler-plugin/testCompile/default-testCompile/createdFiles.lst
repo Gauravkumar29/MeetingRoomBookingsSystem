@@ -1,0 +1,8 @@
+com\meetingRoomBooking\services\impl\MeetingRoomServiceImplTest.class
+com\meetingRoomBooking\utilities\DateValidatorTest.class
+com\meetingRoomBooking\utilities\DateTimeUtilityTest.class
+com\meetingRoomBooking\configs\WebConfigTest.class
+com\meetingRoomBooking\constants\RoomInfoTest.class
+com\meetingRoomBooking\controllers\MeetingRoomBookingsControllerTest.class
+com\meetingRoomBooking\MeetingRoomBookingApplicationTests.class
+com\meetingRoomBooking\interceptor\RequestInterceptorTest.class
